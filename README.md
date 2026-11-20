@@ -48,6 +48,10 @@ y termina sin abrir el menú.
 - Sin usuarios ni acceso simultáneo.
 - Sin historial de movimientos: solo se conserva el stock actual.
 
+## Captura del programa
+
+![Inventario de ferretería en funcionamiento](docs/inventario.png)
+
 ## Autor
 
 Nahuel Klen
