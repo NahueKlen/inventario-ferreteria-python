@@ -1,0 +1,10 @@
+# Archivos generados por Python
+__pycache__/
+*.pyc
+
+# Datos locales del inventario
+inventario.json
+inventario_respaldo.json
+
+# Entorno virtual
+.venv/
